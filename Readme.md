@@ -1,8 +1,8 @@
 
 # Gestor de Tareas en Rust
-> English version 
-[English version](README_en.md) 
- 
+> English documentation version 
+[ENG](README_en.md) 
+
 Este es un proyecto básico de consola para la gestión de tareas (to-do list) en Rust. Permite agregar, listar, actualizar y eliminar tareas, aplicando varios conceptos fundamentales del lenguaje como structs, enums, y más.
 
 ## Características
